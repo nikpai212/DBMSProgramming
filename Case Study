@@ -1,0 +1,17 @@
+CasperStay Case Study
+
+CasperStay is a hotel search web application :
+ - helps in searching and booking the hotel rooms in popular Indian cities 
+ - allows us to browse hotels in a particular city 
+ - book rooms based on selection criteria such as room type, price range etc
+ - provides us options to register with the website 
+ - after booking a room, user may provide ratings for the services offered
+ 
+ 
+ functionalities of the CasperStay application :
+ - Register with CasperStay application as a user
+ - Login to the application using the registered credentials
+ - Search for a hotel room in a particular city
+ - Hotel rooms displayed as per the search criteria
+ - Book a hotel room if you have logged in
+ - Book a hotel room if you have logged in

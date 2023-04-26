@@ -1,0 +1,23 @@
+MySQL is one of the most popularly used Open Source databases for implementing the persistence logic in web applications.
+
+MySQL has the following features:
+- Open Source database - available free of cost
+- Provides high scalability
+- cross platform compatible so can run in almost all the operating systems like Windows, UNIX, etc.
+- It is an ACID compliant database
+- Provides transaction support to maintain data consistency
+- Supports data partitioning
+- It is a highly secure and flexible database
+- MySQL also supports the representation of data using JSON
+
+* create database database_name; creates a database by the name database_name
+  case sensitive i UNIX
+
+* difference between use and select 
+use database_name; - opens the database to start working in it 
+select database(); - To view the database that you are currently working on 
+
+* drop database 
+To delete the database along with all the tables and database objects present in the it.
+drop database if exists casperstay_db;
+Drop database query will result in error if the given database name is not found. So to avoid the error, we can optionally use 'IF EXISTS' optionß

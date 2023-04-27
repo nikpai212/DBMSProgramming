@@ -14,4 +14,16 @@ CasperStay is a hotel search web application :
  - Search for a hotel room in a particular city
  - Hotel rooms displayed as per the search criteria
  - Book a hotel room if you have logged in
- - Book a hotel room if you have logged in
+ - Confirm your booking
+ - Edit your profile for any changes
+ - View your booking details
+
+Login to MySQL
+- with your credentials using 'mysql' command with appropriate options. -u is used to provide userid and -p is used to prompt for password
+- Provide the password
+- Select the appropriate database using USE command
+
+Create table command in MySQL consists of the following three sections:
+2. Defining the table structure with column definitions
+3. Defining the table options
+4. Defining the partition option
